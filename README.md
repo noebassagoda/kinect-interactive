@@ -1,9 +1,13 @@
 # Kinect Interactive
 Processing is a flexible software sketchbook and a language for coding within the context of the visual arts. In this project you'll be able to interact with different visuals making use of a Kinect v1.
 
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/54251435/64494646-0beba300-d266-11e9-81f4-8e199209e6c8.gif" width="315" height="552" />
-  <img src="https://user-images.githubusercontent.com/54251435/64495736-5542ef00-d274-11e9-9eea-c7ff97755b11.gif" width="315" height="552"/> 
+<p align="center">
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/54251435/64494646-0beba300-d266-11e9-81f4-8e199209e6c8.gif" width="315" height="552" />
+   </p>
+   <p align="center">
+     <img src="https://user-images.githubusercontent.com/54251435/64495736-5542ef00-d274-11e9-9eea-c7ff97755b11.gif" width="315" height="552"/> 
+  </p>
 </p>
 
 
