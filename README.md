@@ -1,5 +1,5 @@
 # Kinect Interactive
-Processing is a flexible software sketchbook and a language for coding within the context of the visual arts. In this project you'll be able to interact with different visuals making use of a Kinect v1.
+Processing is a flexible software sketchbook and a language for coding within the context of the visual arts. Taking advantage of this feature and making use of the depth map provided by a kinect we can make some awesome visuals controlling them with our movement. In this project you can find some examples of this.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/54251435/64494646-0beba300-d266-11e9-81f4-8e199209e6c8.gif" width="315" height="552" />
