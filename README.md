@@ -27,13 +27,13 @@ To add this last library do the following once you open Processing:
 
 ### Running
 
-- First clone the repo, go to the folder and open the file `kinect_interactive.pde`
+- First clone the repo, go to the folder and open the file `kinect_interactive.pde`.
 
 - Once you're running the Processing Development Environment (or PDE), make sure to connect and turned on the kinect. To run the project just click the play button located across the top, in the toolbar. 
 
-- By now, the project should be up and running. In order for the kinnect to track your body just perform a wave gesture with your hand. Once the kinect successfully detected your hand just move it in order to interact with the visuals 
+- By now, the project should be up and running. In order for the kinnect to track your body just perform a wave gesture with your hand. Once the kinect successfully detected your hand just move it in order to interact with the visuals.
 
-- To change scene just type a number from 1 to 7 with the keyboard and the corresponding scene will pop up in the screen
+- To change scene just type a number from 1 to 7 with the keyboard and the corresponding scene will pop up in the screen.
 
 
 > **NOTE:** The kinect software did not work as desired in Windows or Linux. For this matters it is recommended to run it in Mac OS.
