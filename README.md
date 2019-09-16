@@ -37,3 +37,4 @@ To add this last library do the following once you open Processing:
 
 
 > **NOTE:** The kinect software did not work as desired in Windows or Linux. For this matters it is recommended to run it in Mac OS.
+
